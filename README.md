@@ -17,32 +17,32 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
    git clone https://github.com/yourusername/rock-paper-scissors.git
 
 2. Navigate into the project folder:
--bash :
--cd rock-paper-scissors
+- bash :
+- cd rock-paper-scissors
 
 3. Open index.html in your browser.
 
 ## 🔮 Features:
--Random move generation by computer
--Score tracking
--Simple and responsive UI
--Play until you close or refresh
--Basic animations for better UX
+- Random move generation by computer
+- Score tracking
+- Simple and responsive UI
+- Play until you close or refresh
+- Basic animations for better UX
 
 ## 📁 Folder Structure
 
 rock-paper-scissors/
--index.html
--style.css
--script.js
--README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
 ## 📌 Future Enhancements
 
--Add sound effects
--Add reset button
--Track previous rounds
--Add difficulty level
+- Add sound effects
+- Add reset button
+- Track previous rounds
+- Add difficulty level
 
 # 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
