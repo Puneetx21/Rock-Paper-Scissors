@@ -12,35 +12,32 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 ## ⚙️ How to Run the Project Locally
 
-#1. Clone this repository:
+1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors.git
 
-Navigate into the project folder:
-
+2. Navigate into the project folder:
 bash
-
 cd rock-paper-scissors
-Open index.html in your browser.
 
-#🔮 Features:
+3. Open index.html in your browser.
+
+## 🔮 Features:
 Random move generation by computer
 Score tracking
 Simple and responsive UI
 Play until you close or refresh
 Basic animations for better UX
 
-#📁 Folder Structure
-pgsql
-Copy
-Edit
+## 📁 Folder Structure
+
 rock-paper-scissors/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 
-# 📌 Future Enhancements
+## 📌 Future Enhancements
 
 Add sound effects
 Add reset button
